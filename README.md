@@ -1,2 +1,2 @@
-# OTUS
-OTUS hometask
+# QA_test_1
+First homework
